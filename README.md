@@ -9,5 +9,3 @@ It will eventually contain HMTL5 canvas pages, CSS3, javascripts and assorted do
 
 Adios,
 Do
-
-doanew@doanew.com
